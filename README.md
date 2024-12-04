@@ -2,8 +2,6 @@
 
 ## Descrição do Projeto - Sistema de Biblioteca
 Este projeto é um Sistema de Biblioteca desenvolvido em TypeScript, projetado para gerenciar o empréstimo de livros, cadastro de usuários e controle de estoque de obras literárias.
-Requisitos Funcionais
-Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer. Os principais requisitos são:
 
 ## Requisitos Funcionais
 Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferecer. Os principais requisitos são:
